@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.nav`
 
-    background: #050505;
+    background: #9052A2;
     position: sticky;
     top: 0;
     z-index: 1020;

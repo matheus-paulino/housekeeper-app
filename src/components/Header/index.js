@@ -5,7 +5,7 @@ import { Container } from './styles';
 export default function Header() {
   return (
     <Container>
-          <h2>Find your partner developer</h2>
+          <h2>Housekeeper</h2>
           <ul>
             <li>
               <a href="#">Home</a>
